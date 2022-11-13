@@ -1,9 +1,14 @@
 {
   "messages": [
     {
-      "id": "123",
+      "id": "fd277015-9c89-4e50-9529-1135fd0d7b5e",
+      "author": "dsa",
+      "message": "dasdas"
+    },
+    {
+      "id": "fd277015-9c89-4e50-9529-1135fd0d7b1e",
       "author": "Damian",
-      "message": "Kurs ALX jest fajny"
+      "message": "Kurs jest fajny"
     }
   ]
 }
